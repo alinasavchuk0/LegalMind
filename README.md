@@ -16,3 +16,10 @@
 1. Створіть віртуальне середовище:
    ```bash
    python -m venv .venv
+2. Встановіть бібліотеку
+   pip install python-dotenv
+3. Встановіть pdf формат
+   pip install PyPDF2 python-dotenv streamlit-extras
+4. Запустіть застосунок
+   streamlit run Legalmind.py
+   
